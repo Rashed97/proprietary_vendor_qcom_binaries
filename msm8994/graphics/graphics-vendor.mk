@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
-    vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/egl/libQTapGLES.so:system/vendor/lib/egl/libQTapGLES.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/hw/vulkan.msm8994.so:system/vendor/lib/hw/vulkan.msm8994.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
@@ -36,11 +35,11 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/libllvm-qgl.so:system/vendor/lib/libllvm-qgl.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
+    vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:system/vendor/lib64/egl/eglSubDriverAndroid.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/libEGL_adreno.so:system/vendor/lib64/egl/libEGL_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/libGLESv1_CM_adreno.so:system/vendor/lib64/egl/libGLESv1_CM_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/libGLESv2_adreno.so:system/vendor/lib64/egl/libGLESv2_adreno.so \
-    vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/libQTapGLES.so:system/vendor/lib64/egl/libQTapGLES.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/egl/libq3dtools_adreno.so:system/vendor/lib64/egl/libq3dtools_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/hw/vulkan.msm8994.so:system/vendor/lib64/hw/vulkan.msm8994.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
@@ -57,6 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/libmm-qdcm.so:system/vendor/lib64/libmm-qdcm.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/librs_adreno.so:system/vendor/lib64/librs_adreno.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/librs_adreno_sha1.so:system/vendor/lib64/librs_adreno_sha1.so \
-    vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/libscalar.so:system/vendor/lib64/libscalar.so \
+    vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/libscale.so:system/vendor/lib64/libscale.so \
     vendor/qcom/binaries/msm8994/graphics/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so
 endif
