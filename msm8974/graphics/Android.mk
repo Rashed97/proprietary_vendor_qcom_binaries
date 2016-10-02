@@ -18,7 +18,4 @@ LOCAL_PATH := $(call my-dir)
 
 ifneq ($(filter msm8974,$(TARGET_BOARD_PLATFORM)),)
 
-
-ifeq ($(QCPATH),)
-endif
 endif
